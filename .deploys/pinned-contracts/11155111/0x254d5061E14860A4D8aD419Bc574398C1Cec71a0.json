@@ -1,0 +1,29 @@
+{
+  "name": "TimeBased",
+  "address": "0x254d5061E14860A4D8aD419Bc574398C1Cec71a0",
+  "timestamp": 1776252171727,
+  "abi": [
+    {
+      "inputs": [],
+      "name": "count",
+      "outputs": [],
+      "stateMutability": "nonpayable",
+      "type": "function"
+    },
+    {
+      "inputs": [],
+      "name": "counter",
+      "outputs": [
+        {
+          "internalType": "uint256",
+          "name": "",
+          "type": "uint256"
+        }
+      ],
+      "stateMutability": "view",
+      "type": "function"
+    }
+  ],
+  "filePath": "Automation/contracts/TimeBased.sol",
+  "pinnedAt": 1776252236253
+}

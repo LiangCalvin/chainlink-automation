@@ -1,0 +1,34 @@
+{
+  "name": "EventEmitter",
+  "address": "0x086d55577178861A15e3c34a5e0e335548d4BAbc",
+  "timestamp": 1776315182568,
+  "abi": [
+    {
+      "inputs": [],
+      "name": "emitCountLog",
+      "outputs": [],
+      "stateMutability": "nonpayable",
+      "type": "function"
+    },
+    {
+      "inputs": [],
+      "stateMutability": "nonpayable",
+      "type": "constructor"
+    },
+    {
+      "anonymous": false,
+      "inputs": [
+        {
+          "indexed": true,
+          "internalType": "address",
+          "name": "msgSender",
+          "type": "address"
+        }
+      ],
+      "name": "WantsToCount",
+      "type": "event"
+    }
+  ],
+  "filePath": "Automation/contracts/log-trigger/EventEmitter.sol",
+  "pinnedAt": 1776315187229
+}

@@ -1,0 +1,6 @@
+{
+  "@chainlink/contracts@1.3.0/src/v0.8/automation/AutomationCompatible.sol": ".deps/npm/@chainlink/contracts@1.3.0/src/v0.8/automation/AutomationCompatible.sol",
+  "@chainlink/contracts@1.3.0/src/v0.8/automation/AutomationBase.sol": ".deps/npm/@chainlink/contracts@1.3.0/src/v0.8/automation/AutomationBase.sol",
+  "@chainlink/contracts@1.3.0/src/v0.8/automation/interfaces/AutomationCompatibleInterface.sol": ".deps/npm/@chainlink/contracts@1.3.0/src/v0.8/automation/interfaces/AutomationCompatibleInterface.sol",
+  "@chainlink/contracts@1.3.0/src/v0.8/automation/interfaces/ILogAutomation.sol": ".deps/npm/@chainlink/contracts@1.3.0/src/v0.8/automation/interfaces/ILogAutomation.sol"
+}
